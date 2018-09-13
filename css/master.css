@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica-Neue", sans-serif;
+  color: lightgrey;
+}
+
+h1 {
+  font-size: 10em;
+  font-weight: 100;
+}
+
+h2 {
+  font-size: 8em;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 3em;
+  font-weight: 600;
+}
